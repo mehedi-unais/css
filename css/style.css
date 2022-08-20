@@ -1,0 +1,19 @@
+h3{
+	font-size: 50px;
+}
+.h4m_1{
+	background-color: yellow;
+}
+.h5m_1{
+	background-color: burlywood;
+	font-size: 100px;
+}
+
+#border1{
+	border: 5px dotted red;
+}
+.box{
+	width: 50%;
+	height: 200px;
+	background-color: #7FB77E;
+}
